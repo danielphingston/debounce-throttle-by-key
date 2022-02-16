@@ -1,6 +1,6 @@
 {
   "name": "debounce-throttle-by-key",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "throttle and debounce a function based on a parameter key",
   "main": "index.js",
   "publishConfig": {
@@ -9,6 +9,12 @@
   "scripts": {
     "test": "jest"
   },
+  "keywords": [
+    "debounce",
+    "throttle",
+    "debounce-throttle",
+    "debounce-throttle-by-key"
+  ],
   "author": "Daniel Phingston",
   "license": "MIT",
   "devDependencies": {
