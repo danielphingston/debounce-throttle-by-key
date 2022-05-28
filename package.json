@@ -1,6 +1,6 @@
 {
   "name": "debounce-throttle-by-key",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "throttle and debounce a function based on a parameter key",
   "main": "index.js",
   "publishConfig": {
