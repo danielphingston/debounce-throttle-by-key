@@ -66,6 +66,8 @@ function debounceByKey(
         ctx: this,
       };
     }
+    keys[key].args = arguments;
+    keys[key].ctx = this;
 
     if (keys[key].timeoutID) {
       clearTimeout(keys[key].timeoutID);
